@@ -3,6 +3,7 @@
 Objetivo: enviar un nuevo producto desde React Native al backend y guardarlo temporalmente.
 
 Endpoints:
+
 - GET /productos
 - POST /productos
 

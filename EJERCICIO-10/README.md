@@ -1,8 +1,9 @@
 # Ejercicio 10 - Likes
 
-Objetivo: modificar una propiedad existente del recurso con una peticion PATCH.
+Objetivo: modificar una propiedad existente del recurso con una petición PATCH.
 
 Endpoints:
+
 - GET /mascotas
 - PATCH /mascotas/:id/like
 
